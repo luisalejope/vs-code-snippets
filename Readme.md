@@ -11,11 +11,13 @@ This repository contains Visual Studio Code snippets for JavaScript. Now we have
 ## Usage
 
 1. Clone or download this repository to your local machine.
-2. Copy the snippets folder (`vs-code-snippets`) to your Visual Studio Code snippets directory.
-    - On macOS, the directory is typically `~/Library/Application Support/Code/User/snippets`.
-    - On Windows, the directory is typically `%APPDATA%\Code\User\snippets`.
-3. Restart Visual Studio Code if it's already running.
-4. Start using the snippets in your JavaScript/React files!
+2. Open Visual Studio Code and navigate to the command palette by pressing `Cmd + Shift + P` (macOS) or `Ctrl + Shift + P` (Windows).
+3. Type "Snippets: Configure User Snippets" and press `Enter`.
+4. Select the language for which you want to add snippets (e.g., JavaScript).
+5. If you already have an existing `javascript.json` file, append the contents of the downloaded files to it. Otherwise, create a new `javascript.json` file and paste the contents of the downloaded files into it.
+6. Save the `javascript.json` file.
+7. Restart Visual Studio Code if it's already running.
+8. Start using the snippets in your JavaScript/React files!
 
 ## Snippets
 
