@@ -2,6 +2,17 @@
 
 This repository contains Visual Studio Code snippets for JavaScript. Now we have only 2 Redux Snippets to use
 
+# Index
+
+1. [Redux Snippets](#redux-snippets)
+   - [Redux Slice](vs-code-snippets/React/Redux/redux-slice.json)
+   - [RTK Query Instance](vs-code-snippets/React/Redux/rtk-query.json)
+
+## Redux Snippets
+
+- [Redux Slice](vs-code-snippets/React/Redux/redux-slice.json): Create a Redux Toolkit slice with initial state and reducers for common patterns.
+- [RTK Query Instance](vs-code-snippets/React/Redux/rtk-query.json): Set up an RTK Query instance for efficient data fetching with Redux Toolkit Query.
+
 ## Usage
 
 1. Clone or download this repository to your local machine.
